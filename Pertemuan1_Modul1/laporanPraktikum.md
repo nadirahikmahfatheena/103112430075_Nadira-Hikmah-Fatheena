@@ -9,7 +9,7 @@ Selain pemahaman tentang bahasa, dasar dari pemrograman adalah logika perhitunga
 Lebih lanjut, konsep rekursi juga menjadi bagian fundamental dalam pemrograman. Rekursi adalah teknik pemanggilan fungsi yang memanggil dirinya sendiri secara berulang [3]. Konsep ini sangat bermanfaat untuk menyelesaikan masalah yang bersifat berulang atau memiliki pola berlapis, misalnya pada perhitungan faktorial, deret Fibonacci, maupun algoritma pencarian dan pengurutan. Dengan rekursi, programmer dapat menuliskan solusi yang lebih ringkas dan elegan, meskipun pada implementasinya tetap perlu diperhatikan aspek efisiensi penggunaan memori.
 
 ### A. Guided<br/>
-...
+
 #### 1. Hello World 
 #### 2. Input Output
 #### 3. Operator Aritmatika
@@ -19,7 +19,7 @@ Lebih lanjut, konsep rekursi juga menjadi bagian fundamental dalam pemrograman. 
 #### 7. Struct
 
 ### B. Unguided<br/>
-...
+
 #### 1. Tugas 1
 #### 2. Tugas 2
 #### 3. Tugas 3
