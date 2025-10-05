@@ -334,7 +334,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 
-![Screenshot Output Unguided 2_1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan1_Modul1/output/Output-Modul2-Unguided2ptr.jpg)
+![Screenshot Output Unguided 2_1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan2_Modul2/output/Output-Modul2-Unguided2ptr.jpg)
 
 Program menukar nilai dari tiga variabel (a, b, dan c) menggunakan pointer. Fungsi tukar() menerima alamat dari ketiga variabel tersebut dan melakukan pertukaran nilai, nilai a ditukar ke c, b ke a, dan c ke b dengan variabel sementara. 
 
@@ -375,7 +375,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 
-![Screenshot Output Unguided 3_1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan1_Modul1/output/Output-Modul2-Unguided2ref.jpg)
+![Screenshot Output Unguided 3_1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan2_Modul2/output/Output-Modul2-Unguided2ref.jpg)
 
 Program menukar nilai dari tiga variabel (a, b, dan c) menggunakan reference. Fungsi tukar() menerima referensi ke ketiga variabel tersebut dan melakukan pertukaran nilai, nilai a ditukar ke c, b ke a, dan c ke b dengan variabel sementara.
 
@@ -460,7 +460,7 @@ int main() {
 ### Output Unguided 4 :
 
 ##### Output 
-![Screenshot Output Unguided 3_1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan1_Modul1/output/Output-Modul2-Unguided3.jpg)
+![Screenshot Output Unguided 3_1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan2_Modul2/output/Output-Modul2-Unguided3.jpg)
 
 Program berfungsi untuk menampilkan isi array, mencari nilai maksimum, mencari nilai minimum, dan menghitung nilai rata-rata. Data array disimpan dalam variabel arrA dengan nilai awal yang telah ditentukan. Fungsi cariMinimum() digunakan untuk menemukan nilai terkecil, sedangkan cariMaksimum() digunakan untuk mencari nilai terbesar. Fungsi hitungRataRata() menjumlahkan seluruh elemen array dan membaginya dengan jumlah elemen untuk memperoleh nilai rata-rata. Program menggunakan perulangan do-while dan switch-case untuk menampilkan menu.
 
