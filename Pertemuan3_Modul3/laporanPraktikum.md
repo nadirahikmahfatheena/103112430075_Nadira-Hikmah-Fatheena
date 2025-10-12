@@ -2,7 +2,7 @@
 <p align="center">Nadira Hikmah Fatheena - 103112430075</p>
 
 ## Dasar Teori
-Bahasa pemrograman memungkinkan interaksi dengan komputer melalui instruksi logis. Dalam C++, pointer menyimpan alamat memori variabel sehingga data dapat dimodifikasi langsung, sedangkan reference berperan sebagai alias variabel [1]. Struct adalah tipe data bentukan yang mengelompokkan beberapa variabel terkait menjadi satu kesatuan [2].
+Bahasa pemrograman memungkinkan interaksi dengan komputer melalui instruksi logis. Dalam C++, pointer menyimpan alamat memori variabel sehingga data dapat dimodifikasi langsung, sedangkan reference berperan sebagai alias variabel [1]. Struct adalah tipe data bentukan yang mengelompokkan beberapa variabel terkait menjadi satu kesatuan [3].
 
 Parameter fungsi dapat dikirim by value (salinan) atau by reference/pointer (alamat memori) sehingga perubahan memengaruhi data asli [2]. C++ mendukung file terpisah seperti main.cpp, pelajaran.cpp, dan pelajaran.h, di mana file header berisi deklarasi fungsi, variabel global, dan konstanta, sedangkan file implementasi berisi definisi fungsi, sehingga program menjadi modular dan mudah dikembangkan [1].
 
