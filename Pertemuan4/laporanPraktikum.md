@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 4 - </h1>
+# <h1 align="center">Laporan Praktikum Modul 4 </h1>
 <p align="center">Nadira Hikmah Fatheena - 103112430075</p>
 
 ## Dasar Teori
@@ -895,5 +895,6 @@ dapat disimpulkan bahwa linked list merupakan struktur data dinamis yang fleksib
 [1] Syafii, M. (2021). Pemrograman Komputer Menggunakan C++. Universitas Andalas. Diakses pada 12 Oktober 2025 melalui http://repo.unand.ac.id/32011/
 
 <br>[2] Wijoyo, A., et al. (2024). Evaluasi Efisiensi Struktur Data Linked List pada Implementasi Sistem Antrian. https://jurnalmahasiswa.com/index.php/jriin/article/view/1060/678
+
 
 <br>[3] Wijoyo, A., et al. (2024). Perbandingan Struktur Linked List dan Array dalam Manajemen Memori. https://jurnalmahasiswa.com/index.php/jriin/article/view/957/756
