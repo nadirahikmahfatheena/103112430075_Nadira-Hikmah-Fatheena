@@ -807,18 +807,39 @@ int main(){
 
 Program ini dibagi menjadi tiga file utama yaitu listAngka.h, listAngka.cpp, dan main.cpp. File listAngka.h berfungsi sebagai header yang mendefinisikan struktur data dan deklarasi fungsi, seperti angka, node, dan linkedlist. Struktur node terdiri dari satu data bertipe integer dan satu pointer next yang menunjuk ke node berikutnya, sementara linkedlist menyimpan pointer first yang mengarah ke node pertama. File listAngka.cpp berisi implementasi fungsi-fungsi yang digunakan untuk mengelola linked list, termasuk operasi dasar seperti membuat list (createList), memeriksa apakah list kosong (isEmpty), menambahkan node (insertFirst, insertAfter, insertLast), menghapus node (delAfter), serta menampilkan isi list (printList). Selain itu, terdapat pula fungsi tambahan untuk memperbarui data (updateFirst, updateLast, updateAfter), mencari node berdasarkan nilai atau alamat (FindNodeByData, FindNodeByAddress, FindNodeByRange), dan melakukan operasi aritmetika seperti penjumlahan, pengurangan, dan perkalian terhadap semua elemen list (sumList, subList, multipleList). File main.cpp berfungsi untuk menjalankan seluruh fungsi tersebut dengan membuat beberapa node, menambahkannya ke dalam list, memperbarui data, melakukan pencarian, dan menampilkan hasil operasi aritmetika.
 
-### Output Unguided :
+### Soal Unguided 1:
+Buatlah procedure updateFirst, updateLast, dan updateAfter
+Kemudian pada “main.cpp” lakukanlah : 
+➢ Update data 40 menjadi 50 
+➢ Update data 8 menjadi 29 
+➢ Update data 33 menjadi 45 
+➢ Update data 18 menjadi 20 
+➢ Tampilkan seluruh list setelah diupdate
 
 ##### Output Unguided 1
 ![Screenshot Output Unguided 1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided1.jpg)
 
 Pada soal pertama, diminta untuk membuat tiga prosedur yaitu updateFirst, updateLast, dan updateAfter yang berfungsi untuk memperbarui data pada node tertentu. Prosedur updateFirst digunakan untuk mengganti nilai data pada node pertama di dalam list, updateLast digunakan untuk memperbarui data pada node terakhir, dan updateAfter digunakan untuk mengubah nilai data pada node yang terletak setelah node tertentu yang ditentukan melalui parameter nodePrev. Pada implementasinya, setiap fungsi akan terlebih dahulu memeriksa apakah list kosong menggunakan isEmpty. Jika list tidak kosong, maka program akan meminta input angka baru dari pengguna untuk menggantikan data lama pada posisi yang sesuai. Dalam main.cpp, prosedur-prosedur ini digunakan untuk melakukan beberapa pembaruan data, yaitu mengubah nilai 40 menjadi 50, 8 menjadi 29, 33 menjadi 45, dan 18 menjadi 20. Setelah semua proses update dilakukan, program menampilkan kembali seluruh isi list dengan fungsi printList untuk menunjukkan hasil perubahan data yang telah diperbarui.
 
+### Soal Unguided 2:
+Buatlah procedure SearchByData, SearchByAddress, dan SearchByRange
+Kemudian pada “main.cpp” lakukanlah : 
+➢ Mencari data nilai 20 
+➢ Mencari data nilai 55 
+➢ Mencari data alamat nodeB 
+➢ Mencari data alamat nodeA 
+➢ Mencari data dengan nilai minimal 40  
 
 ##### Output Unguided 2
 ![Screenshot Output Unguided 2](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided2.jpg)
 
 Pada soal kedua, dibuat tiga prosedur pencarian data, yaitu FindNodeByData, FindNodeByAddress, dan FindNodeByRange. Prosedur FindNodeByData berfungsi untuk mencari node berdasarkan nilai data integer yang disimpan dalam list. Jika nilai ditemukan, program akan menampilkan posisi node tersebut di dalam list. Prosedur FindNodeByAddress digunakan untuk mencari node berdasarkan alamat memorinya. Prosedur ini bermanfaat untuk memastikan apakah suatu pointer benar-benar menunjuk ke node yang berada di dalam list, serta menampilkan posisi dan alamat node yang sesuai. Sementara itu, FindNodeByRange digunakan untuk menampilkan semua node dengan nilai data yang lebih besar atau sama dengan nilai minimum yang ditentukan (nilaiMin). Dalam main.cpp, ketiga prosedur ini dijalankan untuk mencari data bernilai 20 dan 55, mencari alamat dari nodeB dan nodeA, serta menampilkan seluruh node dengan nilai minimal 40. Setiap prosedur akan menampilkan hasil pencarian berupa posisi node, alamat node, atau pesan bahwa data tidak ditemukan apabila tidak ada nilai yang sesuai.
+
+### Soal Unguided 3:
+Lakukanlah operasi aritmetika penjumlahan, pengurangan, dan perkalian terhadap 
+semua data yang ada didalam list tersebut! Untuk penjumlahan nilai awal adalah 0, 
+untuk pengurangan nilai awal adalah nilai node pertama (first), untuk perkalian nilai 
+awal adalah 1. 
 
 ##### Output Unguided 3
 ![Screenshot Output Unguided 3](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided3.jpg)
@@ -838,4 +859,5 @@ Implementasi linked list dalam bahasa C++ memberikan fleksibilitas tinggi dalam 
 
 
 <br>[3] D. Gunawan. (2015). Buku Ajar Bahasa Pemrograman C++. Deepublish. Diakses melalui https://books.google.co.id/books?id=MaNDEQAAQBAJ
+
 
