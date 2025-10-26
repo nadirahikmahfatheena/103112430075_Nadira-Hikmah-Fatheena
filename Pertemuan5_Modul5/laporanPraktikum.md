@@ -809,12 +809,12 @@ Program ini dibagi menjadi tiga file utama yaitu listAngka.h, listAngka.cpp, dan
 
 ### Soal Unguided 1:
 Buatlah procedure updateFirst, updateLast, dan updateAfter
-Kemudian pada “main.cpp” lakukanlah : 
-➢ Update data 40 menjadi 50 
-➢ Update data 8 menjadi 29 
-➢ Update data 33 menjadi 45 
-➢ Update data 18 menjadi 20 
-➢ Tampilkan seluruh list setelah diupdate
+<br>Kemudian pada “main.cpp” lakukanlah : 
+<br>➢ Update data 40 menjadi 50 
+<br>➢ Update data 8 menjadi 29 
+<br>➢ Update data 33 menjadi 45 
+<br>➢ Update data 18 menjadi 20 
+<br>➢ Tampilkan seluruh list setelah diupdate
 
 ##### Output Unguided 1
 ![Screenshot Output Unguided 1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided1.jpg)
@@ -823,12 +823,12 @@ Pada soal pertama, diminta untuk membuat tiga prosedur yaitu updateFirst, update
 
 ### Soal Unguided 2:
 Buatlah procedure SearchByData, SearchByAddress, dan SearchByRange
-Kemudian pada “main.cpp” lakukanlah : 
-➢ Mencari data nilai 20 
-➢ Mencari data nilai 55 
-➢ Mencari data alamat nodeB 
-➢ Mencari data alamat nodeA 
-➢ Mencari data dengan nilai minimal 40  
+<br>Kemudian pada “main.cpp” lakukanlah : 
+<br>➢ Mencari data nilai 20 
+<br>➢ Mencari data nilai 55 
+<br>➢ Mencari data alamat nodeB 
+<br>➢ Mencari data alamat nodeA 
+<br>➢ Mencari data dengan nilai minimal 40  
 
 ##### Output Unguided 2
 ![Screenshot Output Unguided 2](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided2.jpg)
@@ -859,5 +859,6 @@ Implementasi linked list dalam bahasa C++ memberikan fleksibilitas tinggi dalam 
 
 
 <br>[3] D. Gunawan. (2015). Buku Ajar Bahasa Pemrograman C++. Deepublish. Diakses melalui https://books.google.co.id/books?id=MaNDEQAAQBAJ
+
 
 
