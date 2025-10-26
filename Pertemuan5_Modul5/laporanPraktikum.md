@@ -809,18 +809,18 @@ Program ini dibagi menjadi tiga file utama yaitu listAngka.h, listAngka.cpp, dan
 
 ### Output Unguided :
 
-##### Output 
+##### Output Unguided 1
 ![Screenshot Output Unguided 1](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided1.jpg)
 
 Pada soal pertama, diminta untuk membuat tiga prosedur yaitu updateFirst, updateLast, dan updateAfter yang berfungsi untuk memperbarui data pada node tertentu. Prosedur updateFirst digunakan untuk mengganti nilai data pada node pertama di dalam list, updateLast digunakan untuk memperbarui data pada node terakhir, dan updateAfter digunakan untuk mengubah nilai data pada node yang terletak setelah node tertentu yang ditentukan melalui parameter nodePrev. Pada implementasinya, setiap fungsi akan terlebih dahulu memeriksa apakah list kosong menggunakan isEmpty. Jika list tidak kosong, maka program akan meminta input angka baru dari pengguna untuk menggantikan data lama pada posisi yang sesuai. Dalam main.cpp, prosedur-prosedur ini digunakan untuk melakukan beberapa pembaruan data, yaitu mengubah nilai 40 menjadi 50, 8 menjadi 29, 33 menjadi 45, dan 18 menjadi 20. Setelah semua proses update dilakukan, program menampilkan kembali seluruh isi list dengan fungsi printList untuk menunjukkan hasil perubahan data yang telah diperbarui.
 
 
-##### Output 
+##### Output Unguided 2
 ![Screenshot Output Unguided 2](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided2.jpg)
 
 Pada soal kedua, dibuat tiga prosedur pencarian data, yaitu FindNodeByData, FindNodeByAddress, dan FindNodeByRange. Prosedur FindNodeByData berfungsi untuk mencari node berdasarkan nilai data integer yang disimpan dalam list. Jika nilai ditemukan, program akan menampilkan posisi node tersebut di dalam list. Prosedur FindNodeByAddress digunakan untuk mencari node berdasarkan alamat memorinya. Prosedur ini bermanfaat untuk memastikan apakah suatu pointer benar-benar menunjuk ke node yang berada di dalam list, serta menampilkan posisi dan alamat node yang sesuai. Sementara itu, FindNodeByRange digunakan untuk menampilkan semua node dengan nilai data yang lebih besar atau sama dengan nilai minimum yang ditentukan (nilaiMin). Dalam main.cpp, ketiga prosedur ini dijalankan untuk mencari data bernilai 20 dan 55, mencari alamat dari nodeB dan nodeA, serta menampilkan seluruh node dengan nilai minimal 40. Setiap prosedur akan menampilkan hasil pencarian berupa posisi node, alamat node, atau pesan bahwa data tidak ditemukan apabila tidak ada nilai yang sesuai.
 
-##### Output 
+##### Output Unguided 3
 ![Screenshot Output Unguided 3](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan5_Modul5/output/unguided3.jpg)
 
 Pada soal ketiga, dilakukan operasi aritmetika terhadap seluruh data yang ada dalam list menggunakan tiga fungsi yaitu sumList, subList, dan multipleList. Fungsi sumList menghitung total penjumlahan seluruh data dalam list dengan nilai awal 0, di mana setiap node dijumlahkan satu per satu dari awal hingga akhir. Fungsi subList digunakan untuk melakukan pengurangan dengan nilai awal berupa data dari node pertama, kemudian nilai-nilai node berikutnya dikurangkan secara berurutan. Sementara itu, multipleList digunakan untuk menghitung hasil perkalian semua data dalam list, dimulai dengan nilai awal 1. Ketiga fungsi ini memanfaatkan proses perulangan untuk menelusuri setiap node dan mengakumulasi hasil operasi aritmetika sesuai jenisnya. Dalam main.cpp, setelah proses pembaruan dan pencarian data selesai dilakukan, fungsi-fungsi ini dijalankan dan hasilnya ditampilkan ke layar berupa total penjumlahan, total pengurangan, dan total perkalian.
@@ -834,5 +834,6 @@ Pada soal ketiga, dilakukan operasi aritmetika terhadap seluruh data yang ada da
 [1] S. Sara, A. Rachmadi, & R. I. M. Darmawan. (2020). Hybrid Array List: An Efficient Dynamic Array with Linked List Structure. Indonesian Journal of Computing (IndoJC), Vol. 5, No. 2, pp. 45–52. Diakses melalui https://socjs.telkomuniversity.ac.id/ojs/index.php/indojc/article/view/527/297
 
 <br>[2] Shofwan Hanief, S.Kom., M.T., & I Wayan Jepriana, S.Kom., M.Cs. (2023). Konsep Algoritme dan Aplikasinya dalam Bahasa Pemrograman C++. Deepublish. Diakses melalui https://books.google.co.id/books?id=BRQQEAAAQBAJ
+
 
 <br>[3] D. Gunawan. (2015). Buku Ajar Bahasa Pemrograman C++. Deepublish. Diakses melalui https://books.google.co.id/books?id=MaNDEQAAQBAJ
