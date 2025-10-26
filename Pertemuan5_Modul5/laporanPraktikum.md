@@ -827,7 +827,8 @@ Pada soal ketiga, dilakukan operasi aritmetika terhadap seluruh data yang ada da
 
 ## Kesimpulan
 
-
+Dapat disimpulkan bahwa linked list merupakan struktur data dinamis yang efisien untuk pengelolaan data yang sering berubah ukuran. Dengan memanfaatkan konsep node dan pointer, linked list mampu melakukan operasi penambahan, penghapusan, pembaruan, dan pencarian data tanpa perlu mengalokasikan ulang seluruh memori seperti pada array.
+Implementasi linked list dalam bahasa C++ memberikan fleksibilitas tinggi dalam pengolahan data, terutama pada aplikasi yang membutuhkan efisiensi memori dan kecepatan manipulasi data. Selain itu, penerapan operasi aritmetika dan fungsi pendukung seperti update dan search menunjukkan bahwa linked list tidak hanya berperan sebagai penyimpan data, tetapi juga sebagai struktur yang mendukung proses komputasi yang kompleks dan dinamis.
 
 ## Referensi
 
@@ -837,3 +838,4 @@ Pada soal ketiga, dilakukan operasi aritmetika terhadap seluruh data yang ada da
 
 
 <br>[3] D. Gunawan. (2015). Buku Ajar Bahasa Pemrograman C++. Deepublish. Diakses melalui https://books.google.co.id/books?id=MaNDEQAAQBAJ
+
