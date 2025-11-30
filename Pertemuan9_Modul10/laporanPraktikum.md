@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 9</h1>
+# <h1 align="center">Laporan Praktikum Modul 10</h1>
 
 <p align="center">Nadira Hikmah Fatheena - 103112430075</p>
 
@@ -1048,5 +1048,6 @@ Dapat disimpulkan bahwa Binary Search Tree (BST) merupakan struktur data hierark
 <br>[2] Nurul Chafid, Apriyanto Saputra. (2024). Penerapan Metode Binary Search Tree Untuk Deskripsi Sandi Morse Berbasis Android. JISNI: Jurnal Ilmiah Universitas Satya Negara Indonesia. Diakses melaluihttps://jurnal.unimed.ac.id/2012/index.php/cess/article/view/67447/27654
 
 <br>[3] Agung Wijoyo, dkk. (2024). Pemanfaatan Pohon Biner Untuk Pemrosesan Data Efisien. JRIIN: Jurnal Riset Informatika dan Inovasi. Diakses melalui https://jurnalmahasiswa.com/index.php/jriin/article/view/1264
+
 
 
