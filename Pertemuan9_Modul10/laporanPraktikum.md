@@ -1039,6 +1039,7 @@ Pada fungsi utama (main), pohon dibentuk melalui penyisipan data dengan urutan s
 ![Screenshot Output Unguided 3](https://github.com/nadirahikmahfatheena/103112430075_Nadira-Hikmah-Fatheena/blob/main/Pertemuan9_Modul10/output/unguided3.jpg)
 
 ## Kesimpulan
+Dapat disimpulkan bahwa Binary Search Tree (BST) merupakan struktur data hierarkis yang memegang peranan vital dalam ilmu komputer karena menawarkan efisiensi operasi data (pencarian, penyisipan, penghapusan) yang lebih baik dibandingkan struktur linear seperti array. Kinerja optimal BST sangat bergantung pada keseimbangan strukturnya. Oleh karena itu, varian seperti AVL Tree dan Red-Black Tree dikembangkan untuk menjamin stabilitas kompleksitas waktu tetap logaritmik (O(log n)). Fleksibilitas konsep BST juga terbukti melalui penerapannya yang luas, tidak hanya sebagai penyimpanan data, tetapi juga sebagai fondasi algoritma kompleks seperti Priority Queue untuk manajemen prioritas proses, serta implementasi Pohon Morse untuk kebutuhan penerjemahan sinyal digital.
 
 ## Referensi
 
@@ -1047,4 +1048,5 @@ Pada fungsi utama (main), pohon dibentuk melalui penyisipan data dengan urutan s
 <br>[2] Nurul Chafid, Apriyanto Saputra. (2024). Penerapan Metode Binary Search Tree Untuk Deskripsi Sandi Morse Berbasis Android. JISNI: Jurnal Ilmiah Universitas Satya Negara Indonesia. Diakses melaluihttps://jurnal.unimed.ac.id/2012/index.php/cess/article/view/67447/27654
 
 <br>[3] Agung Wijoyo, dkk. (2024). Pemanfaatan Pohon Biner Untuk Pemrosesan Data Efisien. JRIIN: Jurnal Riset Informatika dan Inovasi. Diakses melalui https://jurnalmahasiswa.com/index.php/jriin/article/view/1264
+
 
